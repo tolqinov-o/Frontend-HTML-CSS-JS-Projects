@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Gafata&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    box-sizing: border-box;
+    font-family: 'Gafata', sans-serif;
+}
+
+#root {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(45deg, #08001f, #30197d);
+    color: #fff;
+}
+
+header h1 {
+    position: absolute;
+    top: 7%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.paper-result {
+    width: 800px;
+    height: 180px;
+    position: absolute;
+    border-radius: 20px;
+    background: rgba(235, 0, 255, 0.11);
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.paper-result hr {
+    position: absolute;
+    width: 15%;
+    top: 45%;
+    left: 43%;
+    transform: rotate(90deg);
+}
+
+.paper-about {
+    width: 800px;
+    height: 180px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.paper-sign {
+    width: 800px;
+    height: 180px;
+    background: rgba(235, 0, 255, 0.11);
+    border-radius: 20px;
+    position: absolute;
+    padding: 25px;
+    top: 83%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.paper-sign .btn {
+    height: 120px;
+    background: rgba(235, 0, 255, 0.11);
+    border-radius: 20px;
+    font-size: 40px;
+}
+
+@media (max-width: 870px) {
+    #root {
+        min-height: 150vh;
+    }
+
+    .paper-result, .paper-about, .paper-sign {
+        position: absolute;
+        transform: translate(-50%, -50%);
+        width: 90%;
+    }
+    .paper-result {
+        min-height: 350px;
+        top: 35%;
+    }
+
+    .paper-result hr {
+        width: 90%;
+        left: 5%;
+        transform: rotate(0deg);
+    }
+
+    .paper-about {
+        top: 67%;
+    }
+
+    .paper-sign {
+        height: 600px;
+        top: 110%;
+        min-height: 400px;
+    }
+}
