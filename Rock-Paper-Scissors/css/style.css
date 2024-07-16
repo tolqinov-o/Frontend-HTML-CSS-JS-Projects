@@ -81,7 +81,7 @@ header h1 {
     }
     .paper-result {
         min-height: 350px;
-        top: 35%;
+        top: 40%;
     }
 
     .paper-result hr {
@@ -91,12 +91,11 @@ header h1 {
     }
 
     .paper-about {
-        top: 67%;
+        top: 78%;
     }
 
     .paper-sign {
-        height: 600px;
-        top: 110%;
-        min-height: 400px;
+        top: 120%;
+        min-height: 500px;
     }
 }
