@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Kannada:wght@100..800&family=Borel&family=Comme:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Comme", sans-serif;
+    font-weight: 500;
+}
+
+main {
+    width: 100%;
+    min-height: 100vh;
+    font-weight: 700;
+    background-image: url(../img/ColoredPatterns.svg);
+}
+
+main .card {
+    width: 320px;
+    height: 480px;
+    border-radius: 20px;
+}
+
+main h3 {
+    font-family: "Borel", cursive;
+    font-weight: 700;
+}
+
+main .card .header {
+    width: 100%;
+    height: 340px;
+    color: #fff;
+    border-radius: 18px;
+    background: rgb(70,6,69);
+    background: linear-gradient(151deg, rgba(70,6,69,1) 16%, rgba(255,84,80,1) 88%);
+}
+
+main .card-title {
+    font-size: 5rem;
+}
+
+main .btn {
+    width: 80px;
+    height: 50px;
+    background-color: #e0e1e1;
+    font-size: 20px;
+}
