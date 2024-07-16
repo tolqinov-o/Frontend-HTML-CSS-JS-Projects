@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Kannada:wght@100..800&family=Borel&family=Comme:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Comme", sans-serif;
+    font-weight: 500;
+}
+
+main {
+    width: 100%;
+    min-height: 80vh;
+}
+
+.navbar-brand {
+    font-family: "Borel", cursive;
+    font-weight: 700;
+}
