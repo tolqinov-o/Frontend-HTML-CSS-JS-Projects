@@ -8,7 +8,7 @@ My_Frontend || Project-6
             <img src="./img/img1.jpg" alt="Frontend-Projects">
         </td>
         <td>
-            <img src="./img/img2.jpg" alt="Frontend-Projects">
+            <img src="./img/img2.png" alt="Frontend-Projects">
         </td>
     </tr>
 </table>
