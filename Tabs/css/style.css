@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: "Poppins", sans-serif;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+   
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+:root {
+    /* ==== colors ==== */
+    --body-color: #E4E9F7;
+    --card-color: #FFF;
+    --primary-color: #695CFE;
+    --primary-color-light: #F6F5FF;
+    --toggle-color: #DDD;
+    --text-color: #707070;
+    --text-color-1: #212529;
+
+    /* ==== transition ==== */
+
+    --tran-02: all 0.2s ease;
+    --tran-03: all 0.3s ease;
+    --tran-04: all 0.4s ease;
+    --tran-05: all 0.5s ease;
+}
+
+body {
+    height: 100vh;
+    background: var(--body-color);
+    transition: var(--tran-05);
+}
+
+body.dark {
+    --body-color: #18191A;
+    --card-color: #242526;
+    --text-color: #CCC;
+    --text-color-1: #fff;
+}
+
+main {
+    width: 100%;
+    min-height: 100vh;
+    background: var(--body-color);
+    transition: var(--tran-05);
+}
+
+main .container h1 {
+    width: 270px;
+    color: var(--text-color-1);
+    border-bottom: 3px solid var(--text-color-1);
+}
+
+main .card {
+    background: var(--card-color);
+}
+
+main .tab-content {
+    width: 100%;
+    min-height: 100%;
+}
+
+.tab-content .card img {
+    width: 400px;
+    height: 250px;
+}
+
+.tab-content .card .card-title {
+    color: var(--text-color-1);
+}
+
+.tab-content .card .card-text {
+    font-weight: 300;
+    color: var(--text-color);
+}
