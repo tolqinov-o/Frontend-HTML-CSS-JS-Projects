@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+main {
+    width: 100%;
+    min-height: 100vh;
+    font-weight: 700;
+    background-color: #fff;
+}
+
+main.show .profile {
+    display: none;
+}
+
+.profile .profile-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: #4070f4;
+    padding: 2px;
+}
+
+.profile .profile-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border: 3px solid #fff;
+}
+
+.profile-title {
+    font-weight: 400;
+}
+
+.profile-text {
+    font-weight: 300;
+}
+
+.popup-outer {
+    width: 100%;
+    min-height: 100vh;
+    background: #ccc;
+    opacity: 0;
+    pointer-events: none;
+}
+
+main.show .popup-outer {
+    opacity: 10;
+    pointer-events: auto;
+}
+
+.popup-outer .card {
+    min-width: 400px;
+}
+
+.popup-outer img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #fff;
+}
+
+main textarea {
+    width: 100%;
+    min-height: 140px;
+    outline: none;
+    border-radius: 6px;
+    resize: none;
+    font-size: 14px;
+    font-weight: 400;
+    background: #f3f3f3;
+}
