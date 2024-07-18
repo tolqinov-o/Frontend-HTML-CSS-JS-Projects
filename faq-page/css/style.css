@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+:root {
+    /* ==== colors ==== */
+    --body-color: #222630;
+    --faq-color: #32363F;
+    --weight-300: 300;
+    --weight-400: 400;
+
+    /* ==== transition ==== */
+
+    --tran-03: all 0.3s ease;
+    --tran-05: all 0.5s ease;
+}
+
+main {
+    width: 100%;
+    min-height: 100vh;
+    background: var(--body-color);
+    transition: var(--tran-05);
+}
+
+.card img {
+    border-radius: 20px;
+}
+
+.card ul li.show-answer i {
+    transition: var(--tran-04);
+    transform: rotate(-180deg);
+}
+
+.card .question {
+    font-weight: var(--weight-400);
+}
+
+.card ul li p {
+    padding: 10px;
+    font-weight: var(--weight-300);
+}
+
+.card .question-arrow {
+    min-height: 100%;
+    background: var(--faq-color);
+    border-radius: 9px;
+}
+
+.card ul li {
+    list-style: none;
+}
+
+.card ul {
+    height: 520px;
+    overflow-y: auto;
+}
+
+.card ul::-webkit-scrollbar {
+    display: none;
+}
+
+.card ul li p {
+    display: none;
+}
+
+.card ul li.show-answer p {
+    display: block;
+}
+
+@media (max-width: 800px) {
+    .card .col-md-8 {
+        width: 100%;
+        margin-left: -30px;
+    }
+}
