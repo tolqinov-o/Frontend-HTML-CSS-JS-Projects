@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>T.Oqilbek || Calculator || Project</title>
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="display">
+            <input type="text" placeholder="0" id="input" disabled>
+        </div>
+
+        <div class="number_div">
+            <button class="btn">7</button>
+            <button class="btn">8</button>
+            <button class="btn">9</button>
+            <button style="color: red;" id="ac" onclick="input.value = '' ">AC</button>
+                <br>
+            <button class="btn">4</button>
+            <button class="btn">5</button>
+            <button class="btn">6</button>
+                <br>
+            <button class="btn">1</button>
+            <button class="btn">2</button>
+            <button class="btn">3</button>
+                <br>
+            <button class="btn" onclick="backspace()"><i class="fa-solid fa-delete-left"><img width="40" height="30" src="img/img_522338.png" alt=""></i></button>
+            <button class="btn">0</button>
+            <button class="btn">.</button>
+                <br>
+            <button class="btn">÷</button>
+            <button class="btn">×</button>
+            <button class="btn">-</button>
+            <button class="btn">+</button>
+            <button class="btns" id="equal_sign" onclick="input.value=eval(input.value)">=</button>
+        </div>
+
+        <div class="signs_div">
+            <span class="arrow_left"><i style="cursor: pointer;" class="fa-solid fa-angle-left" onclick="arrow_left">< ></i></span>
+            <button class="sign_btn" onclick="sin()">sin</button>
+            <button class="sign_btn" onclick="cos()">cos</button>
+            <button class="sign_btn" onclick="tan()">tan</button>
+                <br>
+            <button class="sign_btn" onclick="fact()">x!</button>
+            <button class="sign_btn" onclick="pi()">p</button>
+            <button class="sign_btn" onclick="log()">log</button>
+                <br>
+            <button class="sign_btn btn">(</button>
+            <button class="sign_btn btn">)</button>
+            <button class="sign_btn" onclick="root()">©</button>
+                <br>
+                <button class="sign_btn" onclick="e()">e</button>
+                <button class="sign_btn btn">%</button>
+                <button class="sign_btn" onclick="pow()">x<span style="position: relative; bottom: .4em; right: .1em;">y</span></button>
+        </div>
+    </div>
+    
+
+    <script src="js/index.js"></script>
+</body>
+</html>
