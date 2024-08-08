@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+    font-weight: 500;
+}
+
+:root {
+    --background-color: #f0f8ff;
+    --card-color: #ffffff;
+    --text-color: #010307;
+}
+
+body.dark {
+    --background-color: #232a2d;
+    --card-color: #333940;
+    --text-color: #fff;
+    transition: all 0.5s ease-in-out;
+}
+
+main {
+    min-height: 100vh;
+    background: var(--background-color);
+    transition: all 0.5s ease-in-out;
+}
+
+main .card {
+    width: 400px;
+    min-height: 150px;
+    background: var(--card-color);
+    color: var(--text-color);
+}
+
+.card .card-body div {
+    display: grid;
+    flex-direction: column;
+}
+
+.card .card-body div .fs {
+    font-size: clamp(
+        1.7rem, 7vw, 2rem
+    );
+}
+    
+.card .card-body div span {
+    font-size: 14px;
+}
+
+.card .card-body .after::after {
+    content: ":";
+    position: absolute;
+    font-size: 30px;
+    margin-left: -35px;
+    margin-top: -4px;
+}
+
+.card .card-body p {
+    right: 30px;
+    top: 62px;
+}
