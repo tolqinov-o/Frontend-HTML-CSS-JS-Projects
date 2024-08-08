@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Kannada:wght@100..800&family=Borel&family=Comme:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Comme", sans-serif;
+    font-weight: 500;
+    overflow: hidden;
+}
+
+main {
+    min-height: 100vh;
+    background: black;
+}
+
+main span {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    pointer-events: none;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: url("https://cdn4.iconfinder.com/data/icons/general-office/91/General_Office_54-256.png");
+    background-size: cover;
+    animation: animate 6s linear;
+}
+
+@keyframes animate {
+    0% {
+        transform: translate(-50%, -50%);
+        opacity: 1;
+    }
+    100% {
+        transform: translate(-50%, -5000%);
+        opacity: 0;
+        filter: hue-rotate(720deg);
+    }
+}
