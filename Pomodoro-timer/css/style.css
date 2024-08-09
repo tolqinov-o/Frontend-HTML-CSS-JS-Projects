@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Kannada:wght@100..800&family=Borel&family=Comme:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Comme", sans-serif;
+    font-weight: 500;
+}
+
+main {
+    min-height: 100vh;
+    background: linear-gradient(45deg, #08001f, #30197d);
+}
+
+main .card {
+    width: 400px;
+    height: 250px;
+    background: rgba(255, 255, 255, 0.11);
+    backdrop-filter: blur(15px);
+}
+
+.card .card-body .mb-4 {
+    font-size: 3rem;
+}
