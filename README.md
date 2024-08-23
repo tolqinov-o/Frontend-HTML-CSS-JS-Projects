@@ -6,66 +6,63 @@ My_Frontend || Projects
 ## All Projects
 
 <table>
-    <tr>
-        <td>
-            - [Rock Paper Scissors - Project - 1](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Rock-Paper-Scissors/)
-            - [Color Flipper - Project - 2](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/ColorFlipper/)
-            - [Counter - Project - 3](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Counter/)
-            - [Review Carousel - Project - 4](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/ReviewCarousel/)
-            - [Responsive Navbar - Project - 5](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/ResponsiveNavbar/)
-            - [Sidebar - Project - 6](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Sidebar/)
-            - [Modal - Project - 7](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Modal/)
-            - [Faq Page - Project - 8](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/faq-page/)
-            - [Restaurant Menu Page - Project - 9](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/RestaurantMenu-Page/)
-            - [Video - Project - 10](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Video/)
-            - [Tabs - Project - 11](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Tabs/)
-            - [Count Down - Project - 12](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Countdown/)
-            - [Text Generator - Project - 13](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Text-generator/)
-            - [Slider - Project - 14](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Slider/)
-            - [Calculator - Project - 15](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Calculator/)
-            - [Colorfun-animation - Project - 16](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Colorfun-animation/)
-            - [Dark-vs-Light - Project - 17](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Dark-vs-Light/)
-            - [Netflix-Landing - Project - 18](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Netflix-Landing/)
-            - [Paralax-scroll-website - Project - 19](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Paralax-scroll-website/)
-            - [Starbucks - Project - 20](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Starbucks/)
-            - [Todo-list - Project - 21](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Todo-list/)
-            - [Qr-code-generator - Project - 22](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Qr-code-generator/)
-            - [Text-to-voice-convertor - Project - 23](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Text-to-voice-convertor/)
-            - [Image-search-engine - Project - 24](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Image-search-engine/)
-            - [Weather-app - Project - 25](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Weather-app/)
-        </td>
-        <td>
-            - [Airpod-animation-web - Project - 26](https://github.com/tolqinov-o/      Frontend-HTML-CSS-JS-Projects/tree/main/Airpod-animation-web/)
-            - [Heart-trail-animation - Project - 27](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Heart-trail-animation/)
-            - [Real-time-character-counter - Project - 28](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Real-time-character-counter/)
-            - [Digital-clock - Project - 29](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Digital-clock/)
-            - [Auto-text-effect-animation - Project - 30](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Auto-text-effect-animation/)
-            - [Pomodoro-timer - Project - 31](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Pomodoro-timer/)
-            - [Age-calculator - Project - 32](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Age-calculator/)
-            - [Random-password-generator - Project - 33](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Random-password-generator/)
-            - [Tip-calculator - Project - 34](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Tip-calculator/)
-            - [Dice-roll-simulator - Project - 35](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Dice-roll-simulator/)
-            - [Stopwatch - Project - 36](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Stopwatch/)
-            - [Weight-convertor - Project - 37](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Weight-convertor/)
-            - [Temperature-convertor - Project - 38](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Temperature-convertor/)
-            - [Multiplication-app - Project - 39](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Multiplication-app/)
-            - [Mouse-event - Project - 40](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Mouse-event/)
-            - [Loan-calculator - Project - 41](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Loan-calculator/)
-            - [Theme-changer - Project - 42](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Theme-changer/)
-            - [Animated-website-landing-page - Project - 43](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Animated-website-landing-page/)
-            - [Horizontal-website - Project - 44](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Horizontal-website/)
-            - [Animated-website-app - Project - 45](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Animated-website-app/)
-            - [One-page-website - Project - 46](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/One-page-website/)
-            - [Bmi-calculator - Project - 47](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Bmi-calculator/)
-            - [Currency-converter - Project - 48](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Currency-converter/)
-            - [Mini-calendar - Project - 49](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Mini-calendar/)
-            - [Random-img - Project - 50](https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Random-img/)
-        </td>
-    </tr>
+<tr>
+<td>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Rock-Paper-Scissors/" target="_blank">Rock Paper Scissors - Project - 1</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/ColorFlipper/" target="_blank">ColorFlipper - Project - 2</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Counter/" target="_blank">Counter - Project - 3</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/ReviewCarousel/" target="_blank">ReviewCarousel - Project - 4</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/ResponsiveNavbar/" target="_blank">ResponsiveNavbar - Project - 5</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Sidebar/" target="_blank">Sidebar - Project - 6</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Modal/" target="_blank">Modal - Project - 7</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/faq-page/" target="_blank">Faq-Page - Project - 8</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/RestaurantMenu-Page/" target="_blank">Restaurant Menu Page - Project - 9</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Video/" target="_blank">Video - Project - 10</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Tabs/" target="_blank">Tabs - Project - 11</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Countdown/" target="_blank">Count Down - Project - 12</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Text-generator/" target="_blank">Text-Generator - Project - 13</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Slider/" target="_blank">Slider - Project - 14</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Calculator/" target="_blank">Calculator - Project - 15</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Colorfun-animation/" target="_blank">Colorfun-animation - Project - 16</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Dark-vs-Light/" target="_blank">Dark-vs-Light - Project - 17</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Netflix-Landing/" target="_blank">Netflix-Landing - Project - 18</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Paralax-scroll-website/" target="_blank">Paralax-scroll-website - Project - 19</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Starbucks/" target="_blank">Starbucks - Project - 20</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Todo-list/" target="_blank">Todo-list - Project - 21</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Qr-code-generator/" target="_blank">Qr-code-generator - Project - 22</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Text-to-voice-convertor/" target="_blank">Text-to-voice-convertor - Project - 23</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Image-search-engine/" target="_blank">Image-search-engine - Project - 24</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Weather-app/" target="_blank">Weather-app - Project - 25</a>
+</td>
+<td>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Airpod-animation-web/" target="_blank">Airpod-animation-web - Project - 26</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Heart-trail-animation/" target="_blank">Heart-trail-animation - Project - 27</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Real-time-character-counter/" target="_blank">Real-time-character-counter - Project - 28</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Digital-clock/" target="_blank">Digital-clock - Project - 29</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Auto-text-effect-animation/" target="_blank">Auto-text-effect-animation - Project - 30</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Pomodoro-timer/" target="_blank">Pomodoro-timer - Project - 31</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Age-calculator/" target="_blank">Age-calculator - Project - 32</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Random-password-generator/" target="_blank">Random-password-generator - Project - 33</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Tip-calculator/" target="_blank">Tip-calculator - Project - 34</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Dice-roll-simulator/" target="_blank">Dice-roll-simulator - Project - 35</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Stopwatch/" target="_blank">Stopwatch - Project - 36</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Weight-convertor/" target="_blank">Weight-convertor - Project - 37</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Temperature-convertor/" target="_blank">Temperature-convertor - Project - 38</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Multiplication-app/" target="_blank">Multiplication-app - Project - 39</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Mouse-event/" target="_blank">Mouse-event - Project - 40</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Loan-calculator/" target="_blank">Loan-calculator - Project - 41</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Theme-changer/" target="_blank">Theme-changer - Project - 42</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Animated-website/" target="_blank">Animated-website - Project - 43</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Horizontal-website/" target="_blank">Horizontal-website - Project - 44</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Animated-website-app/" target="_blank">Animated-website-app - Project - 45</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/One-page-website/" target="_blank">One-page-website - Project - 46</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Bmi-calculator/" target="_blank">Bmi-calculator - Project - 47</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Currency-converter/" target="_blank">Currency-converter - Project - 48</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Mini-calendar/" target="_blank">Mini-calendar - Project - 49</a>
+	<a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Random-img/" target="_blank">Random-img - Project - 50</a>
+</td>
+</tr>
 </table>
-
-
-
 
 ## Tech Stack
 
