@@ -23,7 +23,7 @@ My_Frontend || Projects
 	◆ <a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Text-generator/" target="_blank">Text-Generator - Project - 13</a><br>
 	◆ <a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Slider/" target="_blank">Slider - Project - 14</a><br>
 	◆ <a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Calculator/" target="_blank">Calculator - Project - 15</a><br>
-	◆ <a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Colorfun-animation/" target="_blank">Colorfun-animation - Project - 16</a>
+	◆ <a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Colorfun-animation/" target="_blank">Colorfun-animation - Project - 16</a> <br>
 	◆ <a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Dark-vs-Light/" target="_blank">Dark-vs-Light - Project - 17</a><br>
 	◆ <a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Netflix-Landing/" target="_blank">Netflix-Landing - Project - 18</a><br>
 	◆ <a href="https://github.com/tolqinov-o/Frontend-HTML-CSS-JS-Projects/tree/main/Paralax-scroll-website/" target="_blank">Paralax-scroll-website - Project - 19</a><br>
